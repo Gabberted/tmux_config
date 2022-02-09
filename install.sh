@@ -1,0 +1,2 @@
+mv .tmux.conf ~/.
+cd ..
